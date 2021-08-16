@@ -1,1 +1,2 @@
 intro_git２をM1 Macbook にてテストしてみます
+2nd commit
