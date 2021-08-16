@@ -1,0 +1,1 @@
+intro_git２をM1 Macbook にてテストしてみます
